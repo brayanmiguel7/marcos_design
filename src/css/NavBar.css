@@ -1,0 +1,22 @@
+@import 'root';
+
+@media (max-width: 667px){
+    
+    .navbar-nav{
+
+        display: none;
+
+    }
+    #logotipo{
+
+        width: 60px !important;
+
+    }
+
+}
+
+#logotipo{
+
+    width: 80px;
+
+}
